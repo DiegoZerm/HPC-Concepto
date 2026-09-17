@@ -16,4 +16,4 @@ El **HPC** (High Performance Computing) o computación de alto rendimiento consi
 - **Velocidad**: Teraflops o petaflops de capacidad de cálculo
 - **Clusters**: Grupos de servidores conectados que funcionan como uno solo
 
-![Mi imagen HPC](hpc_imagen.png)
+![Diagrama HPC](hpc_mapa_conceptual.png)
